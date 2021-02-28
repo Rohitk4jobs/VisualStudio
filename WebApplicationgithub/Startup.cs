@@ -14,6 +14,7 @@ namespace WebApplicationgithub
     {
         public Startup(IConfiguration configuration)
         {
+            //Comments made by Rohit
             Configuration = configuration;
         }
 
